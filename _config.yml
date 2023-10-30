@@ -7,13 +7,13 @@
 
 # Site Settings
 locale: "en-US"
-title: "WeiJun Jiang / My pages"
+title: "WeiJun Jiang's Website"
 title_separator: "-"
 name: &name "WeiJun Jiang"
-description: &description "personal description"
+description: &description "student at Jiangxi university of science and technology"
 url: https://weijunjiang123.github.io/mywebsite.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "weijunjiang123/mywebsite.github.io"
+repository: "mywebsite.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Sidebar Name"
+  name: "weijun jiang"
   avatar: "profile.png"
-  bio: "Your biography for the left-hand sidebar"
-  location: "Location"
+  bio: "a student at Jiangxi university of science and technology"
+  location: "Jiangxi"
   employer:
   pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "http://yourfullgooglescholarurl.com"
@@ -94,7 +94,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "academicpages"
+  github: "weijunjiang123"
   google_plus:
   keybase:
   instagram:
